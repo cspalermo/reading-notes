@@ -1,4 +1,5 @@
 ### Code 201 Reading Notes Table of Contents
+ <h3>Helpful Notes from 201 to Keep 
 <br>
 
 - [Daily Reading Assignment 1](daily-rdg1.md)
