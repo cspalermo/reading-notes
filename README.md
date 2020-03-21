@@ -2,7 +2,7 @@
  <h3>Helpful Notes from 201 to Keep 
 <br>
 
-- [Daily Reading Assignment 1](daily-rdg1.md)
+- [Daily Reading Assignment 1](class-01.md)
 - [Daily Reading Assignment 2](daily-rdg2.md)
 - [Daily Reading Assignment 3](daily-rdg3.md)
 - [Daily Reading Assignment 4](daily-rdg4.md)
