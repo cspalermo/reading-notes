@@ -1,8 +1,8 @@
 ### Code 201 Reading Notes Table of Contents
  ### Helpful Notes from 201 to Keep 
 
-- [Class 01 Reading](class-01.md)
-- [Class 02 Reading](class02.md)
+- [Class 01 Reading](class01.md)
+- [Class 02 Reading](class-02.md)
 - [Daily Reading Assignment 3](daily-rdg3.md)
 - [Daily Reading Assignment 4](daily-rdg4.md)
 - [Daily Reading Assignment 5](daily-rdg5.md)
