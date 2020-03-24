@@ -1,7 +1,5 @@
 ### Code 201 Reading Notes Table of Contents
- <h3>Helpful Notes from 201 to Keep 
-
-<ul>
+ ### Helpful Notes from 201 to Keep 
 
 - [Class 01 Reading](class-01.md)
 - [Daily Reading Assignment 2](daily-rdg2.md)
@@ -19,6 +17,6 @@
 - [Daily Reading Assignment 14](daily-rdg14.md)
 - [Daily Reading Assignment 15](daily-rdg15.md)
 
-</ul>
+
     
  
