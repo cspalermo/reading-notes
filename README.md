@@ -3,7 +3,7 @@
 
 - [Class 01 Reading](class01.md)
 - [Class 02 Reading](class-02.md)
-- [Daily Reading Assignment 3](daily-rdg3.md)
+- [Class 03 Reading](class-03.md)
 - [Daily Reading Assignment 4](daily-rdg4.md)
 - [Daily Reading Assignment 5](daily-rdg5.md)
 - [Daily Reading Assignment 6](daily-rdg6.md)
